@@ -1,4 +1,4 @@
-## Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
+## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
 Dear Reader, 
 I am a Civil Engineer. During my high school studies I had Hindi as one of the subjects. Also I have passed PRAVESIKA hindi examination conducted by Dakshina Bharat Hindi Prachara Sabha, Madras. Hence I have knowledge on Devanagari Lepi. But I am unaware of sanskrit language. 
@@ -10,6 +10,14 @@ From 2006-2008, I attended many courses on Jyotishyam and Vyakaranam. During thi
 Again in 2008-2010, I have undergone course Acharya (MA) in sanskrit sahithyam from the same university and again passed in first class. 
 
 But then I had a feeling that I could not learn the sanskrit language from the root level. So, I have joined a 6 month course privately which is based on Astadhyaee method. This is as per the book SAMSKRUTA PATHANA PAATHANA VIDHI by Sri Brahmadatta Gigjnasu, a well experienced sanskrit scholar in Astadhyaee method in gurukulas. This is designed in forty-four lessons. That is grammer on Kriya Siddhi for those who cannot attend gurukulas for regular courses. This is a short course. Here I learnt the Siddhi Prakriya and I am happy over it. The teacher who had taught this book also did not do the 2nd part, i.e. on Sabdas. With my previous experience, I did the 2nd book, i.e., Sidhi Prakriya on Sabdas in about 6 months at home. 
+
+I was not having clear idea about Krut and Unadi pratyayas which are needed for sabda sidhi. I could not get a guru. I could pick up outline material from various books and with my experience on sidhi prakriya, I could be able to do both in about 9 months from home. This has given me more confidence on sidhi prakriya. 
+
+I have made hand written notes while doing the above works. I want to share my efforts with Sanskrit lovers and students who are interested to know the subject. I want to keep the notes to the reach of interested people by placing it online and my grandson Y. Karthik (M.Tech) in designing and doing all work needed and also to maintain it further. I appreaciate his efforts. God bless him. 
+
+Hope the readers may get the benifit of this notes. While making the notes I have referred various books as mentioned in the reference books. I did the work with the knowledge and experience I had. I am thankful to the authors and publishers of all the books with respects and with their SOWJANYAM.
+
+## 2. Introduction to Sanskrit Vyakaram.
 
 
 | S. No  | Name of File | No. of Pages | Language | Link
