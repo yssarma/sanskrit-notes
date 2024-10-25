@@ -1,5 +1,7 @@
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
+https://github.com/yssarma/sanskrit-notes/blob/main/photo.jpg?raw=true
+
 Dear Reader, 
 I am a Civil Engineer. During my high school studies I had Hindi as one of the subjects. Also I have passed PRAVESIKA hindi examination conducted by Dakshina Bharat Hindi Prachara Sabha, Madras. Hence I have knowledge on Devanagari Lepi. But I am unaware of sanskrit language. 
 
