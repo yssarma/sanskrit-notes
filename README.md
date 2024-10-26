@@ -1,3 +1,8 @@
+<h1 align="center">
+  center aligned text
+</h1>
+
+# Hi
 <p align="center">
 # ॐ श्री मात्रे नमः
 </p>
