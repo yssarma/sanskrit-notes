@@ -1,4 +1,4 @@
-# ॐ SREE MATRE NAMAHA
+# ॐ श्री मात्रे नमः
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
