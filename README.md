@@ -1,4 +1,8 @@
+<p align="center">
 # ॐ श्री मात्रे नमः
+</p>
+
+
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
