@@ -13,10 +13,9 @@
 
 https://drive.google.com/file/d/1aS30hjjMaEFQtKCr9aAuqK-8bCEyNRYl/view?usp=sharing
 
-![Y. S. SARMA L.C.E M.A(Samskrutam) M.A(Jyotishyam) Civil Engineer](photo.jpg)
+![Y. S. SARMA L.C.E M.A(Samskrutam) M.A(Jyotishyam) Civil Engineer](photo.jpg = 250x250)
 Y. S. SARMA L.C.E M.A(Samskrutam) M.A(Jyotishyam) Civil Engineer
 
-![](photo.jpg =250x250)
 
 Dear Reader, 
 
