@@ -4,14 +4,6 @@
   श्री मात्रे नमः  
 </h1>
 
-<h1 align="center">
-  श्री मात्रे नमः
-</h1>
-
-
-
-
-
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
