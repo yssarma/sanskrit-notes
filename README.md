@@ -1,3 +1,5 @@
+# ॐ SREE MATRE NAMAHA
+
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
 ![Y. S. SARMA L.C.E M.A(Samskrutam) M.A(Jyotishyam) Civil Engineer](photo.jpg)
