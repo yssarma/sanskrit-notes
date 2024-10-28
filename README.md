@@ -90,3 +90,11 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 24. | TELUGU TO DEVANAGARI LIPI | 4 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1_U5o6hyVJKHefTG2y3YCVe2BHAMiIZWn?usp=drive_link
 
 
+
+<h4 align="center">
+
+SUBHAMASTU
+
+</h4>
+
+
