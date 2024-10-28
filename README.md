@@ -61,7 +61,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 
 <h4 align="center">
 
-<img src="saraswati-photo.jpeg" width=20% height=20%>
+<img src="saraswati-photo.jpeg" width=50% height=50%>
 
 </h4>
 
