@@ -22,7 +22,7 @@ Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer.
 </h3>
 
 
-Dear Reader, 
+**Dear Reader,** 
 
 I am a Civil Engineer. During my high school studies I had Hindi as one of the subjects. Also I have passed PRAVESIKA hindi examination conducted by Dakshina Bharat Hindi Prachara Sabha, Madras. Hence I have knowledge on Devanagari Lepi. But I am unaware of sanskrit language. 
 
