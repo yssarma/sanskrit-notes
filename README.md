@@ -74,10 +74,10 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 8. | KRUTYA PRATYAYAS | 5 | Sanskrit | https://drive.google.com/drive/folders/16uFJPXoBInzj44e_sMxuE_IhEpI9XF1S?usp=sharing
 | 9. | KRIYA BINDER(with SIDHI AND SWARAH | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
 | 10. | SABDA SIDDHI | 24 | Sanskrit | https://drive.google.com/drive/folders/13O6zVRFEaYxJfNdrzmQiBZ-PoB-njjPc?usp=sharing
-| 11. | UPADESA SAARAHA | 18 | Sanskrit | 
-| 12. | ALANKAARAS (brief) | 76 | Sanskrit | 
-| 13. | SATRU AND SANACH PRATYAYAS | 36 | Sanskrit | 
-| 14. | LATE LAKAARAH | 101 | Sanskrit | 
-| 15. | IRUT LAKARAAH | 2 | Sanskrit | 
+| 11. | UPADESA SAARAHA | 18 | Sanskrit | https://drive.google.com/drive/folders/19RmgrdKyErjfbmvob-TZ6odG79r6ZVeV?usp=sharing
+| 12. | ALANKAARAS (brief) | 76 | Sanskrit | https://drive.google.com/drive/folders/1zuYJcolvGvTuBt4tZNotyrZzYns_UjB8?usp=sharing
+| 13. | SATRU AND SANACH PRATYAYAS | 36 | Sanskrit | https://drive.google.com/drive/folders/19MPGUwQAWenJvpORVDW4WNYekp6x3tTI?usp=drive_link
+| 14. | LATE LAKAARAH | 101 | Sanskrit | https://drive.google.com/drive/folders/1TRI_eGhFsTJGtm5FC07lLdcLJjuh0uo_?usp=drive_link
+| 15. | IRUT LAKARAAH | 2 | Sanskrit | https://drive.google.com/drive/folders/18U3cmiTj2VEyIqtrye73dicFbAYWzOoL?usp=drive_link
 
 
