@@ -13,13 +13,13 @@
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
-<h4 align="center">
+<h3 align="center">
 
 <img src="photo.jpg" width=25% height=25%>
 
 Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer.
 
-</h4>
+</h3>
 
 
 Dear Reader, 
