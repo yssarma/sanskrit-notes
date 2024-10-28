@@ -67,12 +67,12 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 1. | PAANINEEYA UPADESAHA | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
 | 2. | SAMSKRUTA BHASHA SOWRABHAM (4 parts) | 535 | Telugu, Sanskrit | https://drive.google.com/drive/folders/1_5VEncUJGmMnNKS1a1gDHWJar_pXkyE8?usp=sharing
 | 3. | SAMSKRUTAM BINDER | 252 | Sanskrit, English, Telugu | https://drive.google.com/drive/folders/1m7g_88w-JTksAPqDWcvlu15LyBRcRVfi?usp=sharing
-| 4. | VAKYA NIRMANAM |  | Sanskrit, Telugu | 
-| 5. | SANATANA DHARMA | 304 | Sanskrit, English | 
-| 6. | KRUT BINDER | 107 | Sanskrit | 
-| 7. | UNADI BINDER | 455 | Sanskrit | 
-| 8. | KRUTYA PRATYAYAS | 5 | Sanskrit | 
-| 9. | KRIYA BINDER(with SIDHI AND SWARAH | 528 | Sanskrit, Telugu | 
-| 10. | SABDA SIDDHI | 24 | Sanskrit | 
+| 4. | VAKYA NIRMANAM |  | Sanskrit, Telugu | https://drive.google.com/drive/folders/1TF4imJUI9hyHdOtSUeWaYlTeugOu-sd1?usp=sharing
+| 5. | SANATANA DHARMA | 304 | Sanskrit, English | https://drive.google.com/drive/folders/1TiJMTAU_ZzVAu7vz5IbWfA-2hStA9wRI?usp=sharing
+| 6. | KRUT BINDER | 107 | Sanskrit | https://drive.google.com/drive/folders/1Kpytdx2YuEciLZln6IAe57P8e3gIbZMy?usp=sharing
+| 7. | UNADI BINDER | 455 | Sanskrit | https://drive.google.com/drive/folders/1Y0we7H3uL07tsvghH-d9URSttHW9YHDc?usp=sharing
+| 8. | KRUTYA PRATYAYAS | 5 | Sanskrit | https://drive.google.com/drive/folders/16uFJPXoBInzj44e_sMxuE_IhEpI9XF1S?usp=sharing
+| 9. | KRIYA BINDER(with SIDHI AND SWARAH | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
+| 10. | SABDA SIDDHI | 24 | Sanskrit | https://drive.google.com/drive/folders/13O6zVRFEaYxJfNdrzmQiBZ-PoB-njjPc?usp=sharing
 
 
