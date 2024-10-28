@@ -64,7 +64,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 ## 4. List of Contents with link
 | S. No  | Name of File | No. of Pages | Language | Link
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1. | PAANINEEYA UPADESAHA (with SUTRAPAATAHA and LINGANUSASANAM) | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
+| 1. | PAANINEEYA UPADESAHA | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
 | 2. | SAMSKRUTA BHASHA SOWRABHAM (4 parts) | 535 | Telugu, Sanskrit | https://drive.google.com/drive/folders/1_5VEncUJGmMnNKS1a1gDHWJar_pXkyE8?usp=sharing
 | 3. | SAMSKRUTAM BINDER | 252 | Sanskrit, English, Telugu | https://drive.google.com/drive/folders/1m7g_88w-JTksAPqDWcvlu15LyBRcRVfi?usp=sharing
 
