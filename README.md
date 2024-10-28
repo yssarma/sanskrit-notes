@@ -8,7 +8,6 @@
 
 <img src="ganesh-photo.jpeg" width=20% height=20%>
 
-
 </h4>
 
 
@@ -60,6 +59,11 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 4. Books from Ramlal Kapoor Trust
 5. Other textbooks and Sanskrit Koshas.
 
+<h4 align="center">
+
+<img src="saraswati-photo.jpeg" width=20% height=20%>
+
+</h4>
 
 ## 4. List of Contents with link
 | S. No  | Name of File | No. of Pages | Language | Link
