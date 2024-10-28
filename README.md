@@ -79,14 +79,14 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 13. | SATRU AND SANACH PRATYAYAS | 36 | Sanskrit | https://drive.google.com/drive/folders/19MPGUwQAWenJvpORVDW4WNYekp6x3tTI?usp=drive_link
 | 14. | LATE LAKAARAH | 101 | Sanskrit | https://drive.google.com/drive/folders/1TRI_eGhFsTJGtm5FC07lLdcLJjuh0uo_?usp=drive_link
 | 15. | IRUT LAKARAAH | 2 | Sanskrit | https://drive.google.com/drive/folders/18U3cmiTj2VEyIqtrye73dicFbAYWzOoL?usp=drive_link
-| 16. | AVYAYAANI | 15 | Sanskrit | 
-| 17. | CHENDASI | 21 | Hindi | 
-| 18. | PHALITA JYOTISHYAM CONTENTS | 24 | Telugu, English | 
-| 19. | VEDANTA CHANDAHA | 99 | Sanskrit | 
-| 20. | SIKSHA SASTRAM | 58 | Sanskrit | 
-| 21. | VEDANGA JYOTISHYAM | 228 | Sanskrit | 
-| 22. | NIRUKTAM | 143 | Sanskrit | 
-| 23. | VEDANGA KALPAHA | 289 | Sanskrit, Telugu, English | 
-| 24. | TELUGU TO DEVANAGARI LIPI | 4 | Sanskrit, Telugu | 
+| 16. | AVYAYAANI | 15 | Sanskrit | https://drive.google.com/drive/folders/1MDMdBaYgl9mAbGGNzBtG_fG-2TnZzxa1?usp=sharing
+| 17. | CHENDASI | 21 | Hindi | https://drive.google.com/drive/folders/1CLiGgGsygcYNKTfAjkbZoJ7EjTr9YJgB?usp=drive_link
+| 18. | PHALITA JYOTISHYAM CONTENTS | 24 | Telugu, English | https://drive.google.com/drive/folders/1f6a1BXoVnbcTkzuFI2-AgVeBX7oZRfXQ?usp=drive_link
+| 19. | VEDANTA CHANDAHA | 99 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
+| 20. | SIKSHA SASTRAM | 58 | Sanskrit | https://drive.google.com/drive/folders/1EQMLACz4F5kuHW6bdDJ-tscZO7g0QsPp?usp=drive_link
+| 21. | VEDANGA JYOTISHYAM | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
+| 22. | NIRUKTAM | 143 | Sanskrit | https://drive.google.com/drive/folders/1qjvkADwty_KMmzFVOHlilTWQhI58wxZg?usp=drive_link
+| 23. | VEDANGA KALPAHA | 289 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1_B0pkGRdxXuAdNiWkMoBUTfx8QErv8OE?usp=drive_link
+| 24. | TELUGU TO DEVANAGARI LIPI | 4 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1_U5o6hyVJKHefTG2y3YCVe2BHAMiIZWn?usp=drive_link
 
 
