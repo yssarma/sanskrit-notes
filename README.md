@@ -4,6 +4,13 @@
   श्री मात्रे नमः  
 </h1>
 
+<h4 align="center">
+
+<img src="ganesh-photo.jpeg" width=30% height=30%>
+
+
+</h4>
+
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
 
