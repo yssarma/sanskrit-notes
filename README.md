@@ -91,10 +91,10 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 
 
 
-<h4 align="center">
+<h2 align="center">
 
 SUBHAMASTU
 
-</h4>
+</h2>
 
 
