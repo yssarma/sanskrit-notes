@@ -79,5 +79,14 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 13. | SATRU AND SANACH PRATYAYAS | 36 | Sanskrit | https://drive.google.com/drive/folders/19MPGUwQAWenJvpORVDW4WNYekp6x3tTI?usp=drive_link
 | 14. | LATE LAKAARAH | 101 | Sanskrit | https://drive.google.com/drive/folders/1TRI_eGhFsTJGtm5FC07lLdcLJjuh0uo_?usp=drive_link
 | 15. | IRUT LAKARAAH | 2 | Sanskrit | https://drive.google.com/drive/folders/18U3cmiTj2VEyIqtrye73dicFbAYWzOoL?usp=drive_link
+| 16. | AVYAYAANI | 15 | Sanskrit | 
+| 17. | CHENDASI | 21 | Hindi | 
+| 18. | PHALITA JYOTISHYAM CONTENTS | 24 | Telugu, English | 
+| 19. | VEDANTA CHANDAHA | 99 | Sanskrit | 
+| 20. | SIKSHA SASTRAM | 58 | Sanskrit | 
+| 21. | VEDANGA JYOTISHYAM | 228 | Sanskrit | 
+| 22. | NIRUKTAM | 143 | Sanskrit | 
+| 23. | VEDANGA KALPAHA | 289 | Sanskrit, Telugu, English | 
+| 24. | TELUGU TO DEVANAGARI LIPI | 4 | Sanskrit, Telugu | 
 
 
