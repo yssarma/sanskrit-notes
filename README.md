@@ -17,7 +17,7 @@
 
 <img src="sarma-photos.jpeg" width=25% height=25%>
 
-Smt and Sri Y. S. Sarma
+Smt & Sri Y. S. Sarma
 
 
 <h3 align="center">
