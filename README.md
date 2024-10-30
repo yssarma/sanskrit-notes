@@ -92,11 +92,11 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 15. | IRUT LAKARAAH | Example of future tense | 2 | Sanskrit | https://drive.google.com/drive/folders/18U3cmiTj2VEyIqtrye73dicFbAYWzOoL?usp=drive_link
 | 16. | AVYAYAANI | They do not change in all types of noun forms | 15 | Sanskrit | https://drive.google.com/drive/folders/1MDMdBaYgl9mAbGGNzBtG_fG-2TnZzxa1?usp=sharing
 | 17. | CHENDASI | Rules for Sanskrit slokas | 21 | Hindi | https://drive.google.com/drive/folders/1CLiGgGsygcYNKTfAjkbZoJ7EjTr9YJgB?usp=drive_link
-| 18. | PHALITA JYOTISHYAM CONTENTS | 24 | Telugu, English | https://drive.google.com/drive/folders/1f6a1BXoVnbcTkzuFI2-AgVeBX7oZRfXQ?usp=drive_link
-| 19. | VEDANGA CHANDAHA | 99 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
-| 20. | SIKSHA SASTRAM | 58 | Sanskrit | https://drive.google.com/drive/folders/1EQMLACz4F5kuHW6bdDJ-tscZO7g0QsPp?usp=drive_link
-| 21. | VEDANGA JYOTISHYAM | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
-| 22. | NIRUKTAM | 143 | Sanskrit | https://drive.google.com/drive/folders/1qjvkADwty_KMmzFVOHlilTWQhI58wxZg?usp=drive_link
+| 18. | PHALITA JYOTISHYAM CONTENTS |  | 24 | Telugu, English | https://drive.google.com/drive/folders/1f6a1BXoVnbcTkzuFI2-AgVeBX7oZRfXQ?usp=drive_link
+| 19. | VEDANGA CHANDAHA | Rules for vedas and kavyas separately | 99 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
+| 20. | SIKSHA SASTRAM | Deals with swaragynanam in veda mantras | 58 | Sanskrit | https://drive.google.com/drive/folders/1EQMLACz4F5kuHW6bdDJ-tscZO7g0QsPp?usp=drive_link
+| 21. | VEDANGA JYOTISHYAM | information related to vedas | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
+| 22. | NIRUKTAM | needed to form subantam in vedas | 143 | Sanskrit | https://drive.google.com/drive/folders/1qjvkADwty_KMmzFVOHlilTWQhI58wxZg?usp=drive_link
 | 23. | VEDANGA KALPAHA | 289 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1_B0pkGRdxXuAdNiWkMoBUTfx8QErv8OE?usp=drive_link
 | 24. | TELUGU TO DEVANAGARI LIPI | 4 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1_U5o6hyVJKHefTG2y3YCVe2BHAMiIZWn?usp=drive_link
 
