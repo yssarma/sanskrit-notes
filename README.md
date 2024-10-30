@@ -73,18 +73,18 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 </h4>
 
 ## 4. List of Contents with link
-| S. No  | Name of File | No. of Pages | Language | Link
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1. | PAANINEEYA UPADESAHA | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
-| 2. | SAMSKRUTA BHASHA SOWRABHAM (4 parts) | 535 | Telugu, Sanskrit | https://drive.google.com/drive/folders/1_5VEncUJGmMnNKS1a1gDHWJar_pXkyE8?usp=sharing
-| 3. | SAMSKRUTAM BINDER | 252 | Sanskrit, English, Telugu | https://drive.google.com/drive/folders/1m7g_88w-JTksAPqDWcvlu15LyBRcRVfi?usp=sharing
-| 4. | VAKYA NIRMANAM |  | Sanskrit, Telugu | https://drive.google.com/drive/folders/1TF4imJUI9hyHdOtSUeWaYlTeugOu-sd1?usp=sharing
-| 5. | SANATANA DHARMA | 304 | Sanskrit, English | https://drive.google.com/drive/folders/1TiJMTAU_ZzVAu7vz5IbWfA-2hStA9wRI?usp=sharing
-| 6. | KRUT BINDER | 107 | Sanskrit | https://drive.google.com/drive/folders/1Kpytdx2YuEciLZln6IAe57P8e3gIbZMy?usp=sharing
-| 7. | UNADI BINDER | 455 | Sanskrit | https://drive.google.com/drive/folders/1Y0we7H3uL07tsvghH-d9URSttHW9YHDc?usp=sharing
-| 8. | KRUTYA PRATYAYAS | 5 | Sanskrit | https://drive.google.com/drive/folders/16uFJPXoBInzj44e_sMxuE_IhEpI9XF1S?usp=sharing
-| 9. | KRIYA BINDER(with SIDHI AND SWARAH | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
-| 10. | SABDA SIDDHI | 24 | Sanskrit | https://drive.google.com/drive/folders/13O6zVRFEaYxJfNdrzmQiBZ-PoB-njjPc?usp=sharing
+| S. No  | Name of File | Details | No. of Pages | Language | Link
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 1. | PAANINEEYA UPADESAHA | About 5 books written by Maharshi PANINI | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
+| 2. | SAMSKRUTA BHASHA SOWRABHAM (4 parts) | To understand Sanskrit from basics | 535 | Telugu, Sanskrit | https://drive.google.com/drive/folders/1_5VEncUJGmMnNKS1a1gDHWJar_pXkyE8?usp=sharing
+| 3. | SAMSKRUTAM BINDER | To understand Sanskrit briefly from basics | 252 | Sanskrit, English, Telugu | https://drive.google.com/drive/folders/1m7g_88w-JTksAPqDWcvlu15LyBRcRVfi?usp=sharing
+| 4. | VAKYA NIRMANAM | Sentence related matter |  | Sanskrit, Telugu | https://drive.google.com/drive/folders/1TF4imJUI9hyHdOtSUeWaYlTeugOu-sd1?usp=sharing
+| 5. | SANATANA DHARMA |  | 304 | Sanskrit, English | https://drive.google.com/drive/folders/1TiJMTAU_ZzVAu7vz5IbWfA-2hStA9wRI?usp=sharing
+| 6. | KRUT BINDER | Krut Pratyaya needed for name word (Subantam) | 107 | Sanskrit | https://drive.google.com/drive/folders/1Kpytdx2YuEciLZln6IAe57P8e3gIbZMy?usp=sharing
+| 7. | UNADI BINDER | Unadi Pratyaya replacement to Krut Pratyaya in some cases | 455 | Sanskrit | https://drive.google.com/drive/folders/1Y0we7H3uL07tsvghH-d9URSttHW9YHDc?usp=sharing
+| 8. | KRUTYA PRATYAYAS | Krut Pratyaya for passive voice | 5 | Sanskrit | https://drive.google.com/drive/folders/16uFJPXoBInzj44e_sMxuE_IhEpI9XF1S?usp=sharing
+| 9. | KRIYA BINDER(with SIDHI AND SWARAH) | Represents time as a verb with derivation | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
+| 10. | SABDA SIDDHI | Derivation of Sabda Siddhi | 24 | Sanskrit | https://drive.google.com/drive/folders/13O6zVRFEaYxJfNdrzmQiBZ-PoB-njjPc?usp=sharing
 | 11. | UPADESA SAARAHA | 18 | Sanskrit | https://drive.google.com/drive/folders/19RmgrdKyErjfbmvob-TZ6odG79r6ZVeV?usp=sharing
 | 12. | ALANKAARAS (brief) | 76 | Sanskrit | https://drive.google.com/drive/folders/1zuYJcolvGvTuBt4tZNotyrZzYns_UjB8?usp=sharing
 | 13. | SATRU AND SANACH PRATYAYAS | 36 | Sanskrit | https://drive.google.com/drive/folders/19MPGUwQAWenJvpORVDW4WNYekp6x3tTI?usp=drive_link
@@ -93,7 +93,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 16. | AVYAYAANI | 15 | Sanskrit | https://drive.google.com/drive/folders/1MDMdBaYgl9mAbGGNzBtG_fG-2TnZzxa1?usp=sharing
 | 17. | CHENDASI | 21 | Hindi | https://drive.google.com/drive/folders/1CLiGgGsygcYNKTfAjkbZoJ7EjTr9YJgB?usp=drive_link
 | 18. | PHALITA JYOTISHYAM CONTENTS | 24 | Telugu, English | https://drive.google.com/drive/folders/1f6a1BXoVnbcTkzuFI2-AgVeBX7oZRfXQ?usp=drive_link
-| 19. | VEDANTA CHANDAHA | 99 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
+| 19. | VEDANGA CHANDAHA | 99 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
 | 20. | SIKSHA SASTRAM | 58 | Sanskrit | https://drive.google.com/drive/folders/1EQMLACz4F5kuHW6bdDJ-tscZO7g0QsPp?usp=drive_link
 | 21. | VEDANGA JYOTISHYAM | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
 | 22. | NIRUKTAM | 143 | Sanskrit | https://drive.google.com/drive/folders/1qjvkADwty_KMmzFVOHlilTWQhI58wxZg?usp=drive_link
