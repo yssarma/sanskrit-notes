@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-<img src="ganesh-photo.jpeg" width=20% height=20%>
+<img src="ganesh-photo.jpeg" width=30% height=30%>
 
 </h4>
 
