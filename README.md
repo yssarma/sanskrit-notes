@@ -17,7 +17,7 @@
 
 <img src="sarma-photos.jpeg" width=25% height=25%>
 
-Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer.
+Smt and Sri Y. S. Sarma
 
 
 <h3 align="center">
