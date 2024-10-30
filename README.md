@@ -49,7 +49,7 @@ Samskrutam is a well structed language which is the mother of all languages of t
 
 ### DHATUMOOLAMIDAM SAMSKRUTAM. THE BASIS OF ANY LANGUAGE IS VYAKARANAM.
 
-1. DHATU + KRUT / UNADI PRATYAYA = PRATIPADIKAM + SUP (KRIYA) = SUBANTAM (SABDAHA)
+1. DHATU + KRUT / UNADI PRATYAYA = PRATIPADIKAM + SUP (VIBHAKTI) = SUBANTAM (SABDAHA)
 2. DHATU + VIKARANAM + LAKARA = TINGANTAM (KRIYA PADAM)
 
 So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sanskrit language with the help of 5 books written by him. The group of books are called by a name **UPADESAHA**. They are
