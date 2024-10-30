@@ -108,10 +108,10 @@ SUBHAMASTU
 
 </h2>
 
-<h4 align="center">
+<h3 align="center">
 
 <img src="rose-photo.jpeg" width=30% height=30%>
 
-</h4>
+</h3>
 
 
