@@ -15,6 +15,13 @@
 
 <h3 align="center">
 
+<img src="sarma-photos.jpg" width=25% height=25%>
+
+Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer.
+
+
+<h3 align="center">
+
 <img src="photo.jpg" width=25% height=25%>
 
 Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer.
