@@ -83,7 +83,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 6. | KRUDANTA PRAKARANAM | Krut Pratyaya needed for name word (Subantam) | 107 | Sanskrit | https://drive.google.com/drive/folders/1Kpytdx2YuEciLZln6IAe57P8e3gIbZMy?usp=sharing
 | 7. | UNADI BINDER | Unadi Pratyaya replacement to Krut Pratyaya in some cases | 455 | Sanskrit | https://drive.google.com/drive/folders/1Y0we7H3uL07tsvghH-d9URSttHW9YHDc?usp=sharing
 | 8. | KRUTYA PRATYAYAS | Krut Pratyaya for passive voice | 5 | Sanskrit | https://drive.google.com/drive/folders/16uFJPXoBInzj44e_sMxuE_IhEpI9XF1S?usp=sharing
-| 9. | KRIYA BINDER(with SIDHI AND SWARAH) | Represents time as a verb with derivation | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
+| 9. | KRIYA BINDER(with SIDHI) | Represents time as a verb with derivation | 528 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1Vl5mdexMo3aZYNbHDlB4UfzRVrN0BO7A?usp=sharing
 | 10. | SABDA SIDDHI | Derivation of Sabda Siddhi | 24 | Sanskrit | https://drive.google.com/drive/folders/13O6zVRFEaYxJfNdrzmQiBZ-PoB-njjPc?usp=sharing
 | 11. | UPADESA SAARAHA | Teachings of Sri Ramana Maharshi | 18 | Sanskrit | https://drive.google.com/drive/folders/19RmgrdKyErjfbmvob-TZ6odG79r6ZVeV?usp=sharing
 | 12. | ALANKAARAS | Brief knowledge on Alankaaras | 76 | Sanskrit | https://drive.google.com/drive/folders/1zuYJcolvGvTuBt4tZNotyrZzYns_UjB8?usp=sharing
