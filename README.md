@@ -60,6 +60,7 @@ There are six Vedangas to support the functions of Vedas. They are:
 4. Siksha (Phonetics)
 5. Kalpam (knowhow of rituals)
 6. Chendas (Prosody)
+
 A brief information of these vedangas are given as per the rishi who had narrated them. 
 
 ### DHATUMOOLAMIDAM SAMSKRUTAM. THE BASIS OF ANY LANGUAGE IS VYAKARANAM.
