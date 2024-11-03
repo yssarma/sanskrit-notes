@@ -47,6 +47,17 @@ Hope the readers may get the benifit of this notes. While making the notes I hav
 
 Samskrutam is a well structed language which is the mother of all languages of the world. This is the only language in the world which is having "root" as the base, i.e. Dhatu. In this language, there are more than 2000 Dhatus from which the words Subantam(Sabdaha) and Tingantam(Kriya Padam) are generated. In this language only these two types of words are there. It has a maximum of 63 letters as varnamala based on Maheswar Sutras which are also called as Pratyahaara Sutras. This is the same language for vedic and non-vedic versions. 
 
+
+
+There are six Vedangas to support the functions of Vedas. They are:
+1. Astronomy and Astrology
+2. Niruktam
+3. Vyakaranam
+4. Siksha (Phonetics)
+5. Kalpam (knowhow of rituals)
+6. Chendas (Prosody)
+A brief information of these vedangas are given as per the rishi who had narrated them. 
+
 ### DHATUMOOLAMIDAM SAMSKRUTAM. THE BASIS OF ANY LANGUAGE IS VYAKARANAM.
 
 So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sanskrit language with the help of 5 books written by him. The group of books are called by a name **UPADESAHA**. They are
