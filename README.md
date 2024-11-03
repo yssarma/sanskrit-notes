@@ -49,7 +49,7 @@ Samskrutam is a well structed language which is the mother of all languages of t
 
 <h3 align="center">
 
-<img src="vedangas-photo.jpeg" width=30% height=30%>
+<img src="vedangas-photo.jpeg" width=25% height=25%>
 
 </h3>
 
