@@ -39,7 +39,7 @@ From 2006-2008, I attended many courses on Jyotishyam and Vyakaranam. During thi
 
 I was not having clear idea about Krut and Unadi pratyayas which are needed for sabda sidhi. I could not get a guru. I could pick up outline material from various books and with my experience on sidhi prakriya, I was able to do both in about 9 months from home. This has given me more confidence on sidhi prakriya. 
 
-I have made hand written notes while doing the above works. I want to share my efforts with Sanskrit lovers and students who are interested to know the subject. I want to keep the notes to the reach of interested people by placing it online and my grandson Y. Karthik (M.Tech) helped in designing and doing all work needed and also to maintain it in future. I appreaciate his efforts. God bless him. 
+I have made hand written notes while doing the above works. I want to share my efforts with Sanskrit lovers and students who are interested to know the subject. I want to keep the notes to the reach of interested people by placing it online and my grandson Y. Karthik (M.Tech) helped in designing the website and doing all work needed and also to maintain it in future. I appreaciate his efforts. God bless him. 
 
 Hope the readers may get the benifit of this notes. While making the notes I have referred various books as mentioned in the reference books. I did the work with the knowledge and experience I had. I am thankful to the authors and publishers of all the books with respects and with their SOWJANYAM.
 
@@ -60,6 +60,8 @@ There are six Vedangas to support the functions of Vedas. They are:
 4. Siksha (Phonetics)
 5. Kalpam (knowhow of rituals)
 6. Chendas (Prosody)
+
+In which Sutrapataha is the main book and the others are supportive. 
 
 A brief information of these vedangas are given as per the rishi who had narrated them. 
 
