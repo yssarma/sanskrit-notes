@@ -72,7 +72,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 **4. UNADIKOSHAHA**
 **5. LINGANUSASANAM**
 
-In which Sutrapataha is the main book and the others are supportive. 
+**In which Sutrapataha is the main book and the others are supportive.** 
 
 1. DHATU + KRUT / UNADI PRATYAYA = PRATIPADIKAM + SUP (VIBHAKTI) = SUBANTAM (SABDAHA)
 2. DHATU + VIKARANAM + LAKARA = TINGANTAM (KRIYA PADAM)
