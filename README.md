@@ -113,7 +113,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 | 18. | PHALITA JYOTISHYAM CONTENTS |  | 273 | Telugu, English | https://drive.google.com/drive/folders/1f6a1BXoVnbcTkzuFI2-AgVeBX7oZRfXQ?usp=drive_link
 | 19. | VEDANGA CHANDAHA | Rules for vedas and kavyas separately | 178 | Sanskrit | https://drive.google.com/drive/folders/1eNJPpm8BBi72LRLbdtCmPXqqFRnr4_ys?usp=drive_link
 | 20. | SIKSHA SASTRAM | Deals with swaragynanam in veda mantras | 104 | Sanskrit | https://drive.google.com/drive/folders/1EQMLACz4F5kuHW6bdDJ-tscZO7g0QsPp?usp=drive_link
-| 21. | VEDANGA JYOTISHYAM | Information related to vedas | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
+| 21. | VEDANGA JYOTISHYAM | Jyothishyam related to vedas | 228 | Sanskrit | https://drive.google.com/drive/folders/1pa_zldx64gh9Dn8tJgoygSypnxjqDiZZ?usp=drive_link
 | 22. | NIRUKTAM | Needed to form subantam in vedas | 143 | Sanskrit | https://drive.google.com/drive/folders/1qjvkADwty_KMmzFVOHlilTWQhI58wxZg?usp=drive_link
 | 23. | VEDANGA KALPAHA | Rules to perform vedic karmas and represent dharma sutras and gruhyasutras | 289 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1_B0pkGRdxXuAdNiWkMoBUTfx8QErv8OE?usp=drive_link
 | 24. | TELUGU TO DEVANAGARI LIPI | Understand Devanagari Lipi by Telugu speakers | 4 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1_U5o6hyVJKHefTG2y3YCVe2BHAMiIZWn?usp=drive_link
