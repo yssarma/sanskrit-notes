@@ -53,15 +53,13 @@ Samskrutam is a well structed language which is the mother of all languages of t
 
 </h3>
 
-There are six Vedangas to support the functions of Vedas. They are:
+**There are six Vedangas to support the functions of Vedas. They are:**
 1. Astronomy and Astrology
 2. Niruktam
 3. Vyakaranam
 4. Siksha (Phonetics)
 5. Kalpam (knowhow of rituals)
 6. Chendas (Prosody)
-
-In which Sutrapataha is the main book and the others are supportive. 
 
 A brief information of these vedangas are given as per the rishi who had narrated them. 
 
@@ -73,6 +71,8 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructed the sa
 **3. GANAPATAHA**
 **4. UNADIKOSHAHA**
 **5. LINGANUSASANAM**
+
+In which Sutrapataha is the main book and the others are supportive. 
 
 1. DHATU + KRUT / UNADI PRATYAYA = PRATIPADIKAM + SUP (VIBHAKTI) = SUBANTAM (SABDAHA)
 2. DHATU + VIKARANAM + LAKARA = TINGANTAM (KRIYA PADAM)
