@@ -43,7 +43,7 @@ I have made hand written notes while doing the above works. I want to share my e
 
 Hope the readers may get the benifit of this notes. While making the notes I have referred various books as mentioned in the reference books. I did the work with the knowledge and experience I had. I am thankful to the authors and publishers of all the books with respects and with their SOWJANYAM.
 
-**WHERE THERE IS A WILL THERE IS A WAY**
+## WHERE THERE IS A WILL THERE IS A WAY
 
 ## 2. Introduction to Sanskrit Vyakaram.
 
