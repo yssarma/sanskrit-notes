@@ -41,7 +41,7 @@ I was not having clear idea about Krut and Unadi pratyayas which are needed for 
 
 I have made hand written notes while doing the above works. I want to share my efforts with Sanskrit lovers and students who are interested to know the subject. I want to keep the notes to the reach of interested people by placing it online and my grandson Y. Karthik (M.Tech) helped in designing the website and doing all work needed and also to maintain it in future. I appreaciate his efforts. God bless him. 
 
-Hope the readers may get the benifit of this notes. While making the notes I have referred various books as mentioned in the reference books. I did the work with the knowledge and experience I had. I am thankful to the authors and publishers of all the books with respects and with their SOWJANYAM.
+Hope the readers may get the benifit of this notes. While making the notes I have referred various books as mentioned in the reference books. I did the work with the knowledge and experience I had and with the help of books. I am thankful to the authors and publishers of all the books with respects and with their SOWJANYAM.
 
 ## WHERE THERE IS A WILL THERE IS A WAY
 
@@ -63,7 +63,7 @@ Samskrutam is a well structed language which is the mother of all languages of t
 5. **Kalpam (knowhow of rituals)**
 6. **Chendas (Prosody)**
 
-A brief information of these vedangas are given as per the rishi who had narrated them. 
+A brief information of these vedangas are given as per the rishi who had narrated them as available in the books. 
 
 ### DHATUMOOLAMIDAM SAMSKRUTAM. THE BASIS OF ANY LANGUAGE IS VYAKARANAM.
 
