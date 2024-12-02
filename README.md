@@ -128,7 +128,11 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 | 23. | VEDANGA KALPAHA | Rules to perform vedic karmas and represent dharma sutras and gruhyasutras | 289 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1_B0pkGRdxXuAdNiWkMoBUTfx8QErv8OE?usp=drive_link
 | 24. | TELUGU TO DEVANAGARI LIPI | Understand Devanagari Lipi by Telugu speakers | 4 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1_U5o6hyVJKHefTG2y3YCVe2BHAMiIZWn?usp=drive_link
 
+<h3 align="center">
 
+<img src="shanti-mantram.jpg" width=30% height=30%>
+
+</h3>
 
 <h2 align="center">
 
