@@ -53,6 +53,8 @@ Hope the readers may get the benifit of this notes. While making the notes I hav
 
 Samskrutam is a well structured language which is the mother of all languages of the world. This is the only language in the world which is having "root" as the base, i.e. Dhatu. In this language, there are more than 2000 Dhatus from which the words Subantam(Sabdaha) and Tingantam(Kriya Padam) are generated. In this language only these two types of words are there. It has a maximum of 63 letters as varnamala based on Maheswar Sutras which are also called as Pratyahaara Sutras. This is the same language for vedic and non-vedic versions. 
 
+Maharshi Panini had generated 41 Pratyaharas from Pratyahara Sutras which are very useful in Astadhyayee Sutras, Sandhi, Samasas etc. The original (moola) dhathus and pratyayaas include ITH samgnas which are needed for various reasons. When we want to use them to construct a word, we have to first identify them with the help of 9 ITH sutras given in the Astadhyayee (1st chapter, 3rd paragraph). After eliminating them only we have to go for joining and making out the word. So sanskrit language is well designed like mathematics which is very much suitable for computer applications. 
+
 <h3 align="center">
 
 <img src="vedangas-photo.jpeg" width=25% height=25%>
