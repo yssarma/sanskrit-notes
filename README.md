@@ -106,7 +106,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 | 1. | PAANINEEYA UPADESAHA | About 5 books written by Maharshi PANINI | 243 | Sanskrit, Telugu, English | https://drive.google.com/drive/folders/1e3_AZd6AHW2IgztiTSxJBwnqrbf8kpJ0?usp=sharing
 | 2. | SAMSKRUTA BHASHA SOWRABHAM (4 parts) | To understand Sanskrit from basics | 535 | Telugu, Sanskrit | https://drive.google.com/drive/folders/1_5VEncUJGmMnNKS1a1gDHWJar_pXkyE8?usp=sharing
 | 3. | SAMSKRUTAM BINDER | To understand Sanskrit briefly from basics | 252 | Sanskrit, English, Telugu | https://drive.google.com/drive/folders/1m7g_88w-JTksAPqDWcvlu15LyBRcRVfi?usp=sharing
-| 4. | VAKYA NIRMANAM (and miscellaneous) | Sentence related matter (refer to Rupa Chandrika for more Subantas and Tingantas) | 109 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1TF4imJUI9hyHdOtSUeWaYlTeugOu-sd1?usp=sharing
+| 4. | VAKYA NIRMANAM (and miscellaneous) | Sentence related matter (refer to Rupa Chandrika book for more Subantas and Lakaras) | 109 | Sanskrit, Telugu | https://drive.google.com/drive/folders/1TF4imJUI9hyHdOtSUeWaYlTeugOu-sd1?usp=sharing
 | 5. | SANATANA DHARMA |  | 304 | Sanskrit, English | https://drive.google.com/drive/folders/1TiJMTAU_ZzVAu7vz5IbWfA-2hStA9wRI?usp=sharing
 | 6. | KRUDANTA PRAKARANAM | Krut Pratyaya needed for name word (Subantam) | 516 | Sanskrit | https://drive.google.com/drive/folders/1Kpytdx2YuEciLZln6IAe57P8e3gIbZMy?usp=sharing
 | 7. | UNADI BINDER | Unadi Pratyaya replacement to Krut Pratyaya in some cases | 455 | Sanskrit | https://drive.google.com/drive/folders/1Y0we7H3uL07tsvghH-d9URSttHW9YHDc?usp=sharing
