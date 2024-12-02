@@ -80,6 +80,8 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 
 **In which Sutrapataha is the main book and the others are supportive.** 
 
+**It is found that Astadhyayee method is the best method of learning sanskrit language systematically and with full clarity.**
+
 1. DHATU + KRUT / UNADI PRATYAYA = PRATIPADIKAM + SUP (VIBHAKTI) = SUBANTAM (SABDAHA)
 2. DHATU + VIKARANAM + LAKARA = TINGANTAM (KRIYA PADAM)
 
