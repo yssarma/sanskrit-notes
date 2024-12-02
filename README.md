@@ -21,7 +21,7 @@ Smt & Sri Y. S. Sarma
 
 I am thankful to **God** for giving me the grace to learn sanskrit basics at my age of sixty plus which I never dreamt to learn in this lifetime. 
 
-I am thankful to my wife Smt. Y Laxmi who has supported me all the way in learning sanskrit and obtaining two degrees and also in preparing handwritten notes of above 5000 pages. 
+I am thankful to my wife Smt. Y Laxmi who has supported me all the way in learning sanskrit and obtaining two degrees and also in preparing handwritten notes of above 5000 pages and also scanning them as pdfs.
 
 
 <h3 align="center">
