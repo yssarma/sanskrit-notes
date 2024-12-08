@@ -49,6 +49,8 @@ Hope the readers may get the benifit of this notes. While making the notes I hav
 
 ## WHERE THERE IS A WILL THERE IS A WAY
 
+**It is believed that the more knowledge we share the more we gain.**
+
 ## 2. Introduction to Sanskrit Vyakaranam.
 
 Samskrutam is a well structured language which is the mother of all languages of the world. This is the only language in the world which is having "root" as the base, i.e. Dhatu. In this language, there are more than 2000 Dhatus from which the words Subantam(Sabdaha) and Tingantam(Kriya Padam) are generated. In this language only these two types of words are there. It has a maximum of 63 letters as varnamala based on Maheswar Sutras which are also called as Pratyahaara Sutras. This is the same language for vedic and non-vedic versions. 
