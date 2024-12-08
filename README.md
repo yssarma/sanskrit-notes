@@ -130,7 +130,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 
 <h3 align="center">
 
-<img src="shanti-mantram.jpg" width=75% height=75%>
+<img src="shanti-mantram2.jpg" width=75% height=75%>
 
 </h3>
 
