@@ -35,7 +35,7 @@ Y. S. SARMA L.C.E, M.A(Samskrutam), M.A(Jyotishyam), Civil Engineer, D.O.B 1943
 
 **Dear Reader,** 
 
-I am a Civil Engineer. During my high school studies I had Hindi as one of the subjects. Also I have passed PRAVESIKA Hindi examination conducted by Dakshina Bharat Hindi Prachara Sabha, Madras (Chennai). Hence I have knowledge on Devanagari Lepi. But I am unaware of sanskrit language. 
+I am a Civil Engineer. During my high school studies I had Hindi as one of the subjects. Also I have passed PRAVESIKA (4th stage) Hindi examination conducted by Dakshina Bharat Hindi Prachara Sabha, Madras (Chennai). Hence I have knowledge on Devanagari Lepi. But I am unaware of sanskrit language. 
 
 In 2002, I joined Samskruta Bharati organization as a student to learn Sanskrit. I have learnt the Vyakaranam and also conducted spoken sanskrit and vyakaranam classes. In 2004, I appeared the entrance examination conducted by SAMSKRUTA VIDYA PEETAM, a deemed university for vedas and vedangas being taught in sanskrit as a medium of instructions for regular and distance education courses. This is located in Tirupati, a university under central government in the ministry of HR. I passed the entrance exam and have taken Acharya (MA) with Phalita Jyotishyam as a subject in 2004-2006 in distance education and passed in first class. 
 
@@ -53,7 +53,7 @@ Hope the readers may get the benifit of this notes. While making the notes I hav
 
 Samskrutam is a well structured language which is the mother of all languages of the world. This is the only language in the world which is having "root" as the base, i.e. Dhatu. In this language, there are more than 2000 Dhatus from which the words Subantam(Sabdaha) and Tingantam(Kriya Padam) are generated. In this language only these two types of words are there. It has a maximum of 63 letters as varnamala based on Maheswar Sutras which are also called as Pratyahaara Sutras. This is the same language for vedic and non-vedic versions. 
 
-Maharshi Panini had generated 41 Pratyaharas from Pratyahara Sutras which are very useful in Astadhyayee Sutras, Sandhi, Samasas etc. The original (moola) dhathus and pratyayaas include ITH samgnas which are needed for various reasons. When we want to use them to construct a word, we have to first identify them with the help of 9 ITH sutras given in the Astadhyayee (1st chapter, 3rd paragraph). After eliminating them only we have to go for joining and making out the word. So sanskrit language is well designed like mathematics which is very much suitable for computer applications. 
+Maharshi Panini had generated 41 Pratyaharas from Pratyahara Sutras which are very useful in Astadhyayee Sutras, Sandhi, Samasas etc. The original (moola) dhathus and pratyayaas include ITH samgnas which are needed for various reasons. When we want to use them to construct a word, we have to first identify them with the help of 9 ITH sutras given in the Astadhyayee (1st chapter, 3rd padam). After eliminating them only we have to go for joining and making out the word. So sanskrit language is well designed like mathematics which is very much suitable for computer applications. 
 
 <h3 align="center">
 
