@@ -102,6 +102,19 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 
 </h4>
 
+<h4 align="center">
+
+<img src="saraswati-dhyaana-shlokam-photo.jpg" width=50% height=50%>
+
+</h4>
+
+<h4 align="center">
+
+<img src="vaagbhushanam-photo.jpg" width=50% height=50%>
+
+</h4>
+
+
 ## 4. List of Contents with link
 | S. No  | Name of File | Details | No. of Pages | Language | Link
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
