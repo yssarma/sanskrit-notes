@@ -10,9 +10,9 @@
 
 </h4>
 
-<h4 align="center">
+<h3 align="center">
   ॐ श्री गणेशाय नमः
-</h4>
+</h3>
 
 
 ## 1. Self Introduction of Y. S. Sarma with whose efforts this study material is prepared.
