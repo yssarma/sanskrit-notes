@@ -110,7 +110,7 @@ So much so for Samskrutam too. Maharshi Panini (2900 B.C.) had restructured the 
 
 <h4 align="center">
 
-<img src="vaagbhushanam-photo.jpg" width=50% height=50%>
+<img src="vaagbhushanam-photo2.jpg" width=50% height=50%>
 
 </h4>
 
