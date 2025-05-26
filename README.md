@@ -166,9 +166,7 @@ SUBHAMASTU
 
 
 
-## SUBJECTS AVAILABLE IN THE STUDY MATERIAL OF 
-## 17-11-2024 WITH DETAILS OF FILES AVAILABLE IN EACH 
-## SUBJECT. https://github.com/yssarma/sanskrit-notes 
+## SUBJECTS AVAILABLE IN THE STUDY MATERIAL OF 17-11-2024 WITH DETAILS OF FILES AVAILABLE IN EACH SUBJECT. https://github.com/yssarma/sanskrit-notes 
 1. PAANINEEYA UPADESAHA 
 ○ - Paanineeya Upadesaha.pdf - Sanskrit 
 ○ - Astadhyayee-Sutrapathaha.pdf - Telugu 
