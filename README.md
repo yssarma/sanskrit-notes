@@ -163,6 +163,132 @@ SUBHAMASTU
 
 <img src="rose-photo.jpeg" width=30% height=30%>
 
+SUBJECTS AVAILABLE IN THE STUDY MATERIAL OF 
+17-11-2024 WITH DETAILS OF FILES AVAILABLE IN EACH 
+SUBJECT. https://github.com/yssarma/sanskrit-notes 
+1. PAANINEEYA UPADESAHA 
+○ - Paanineeya Upadesaha.pdf - Sanskrit 
+○ - Astadhyayee-Sutrapathaha.pdf - Telugu 
+○ - DHATUPATHAHA(PART1).pdf - Sanskrit 
+○ - DHATUPATHAHA(PART2).pdf - Sanskrit 
+○ - DHATUPATHAHA(PART3).pdf - Sanskrit 
+○ - Linganusasanam.pdf - Sanskrit 
+○ - UNADIKOSHAHA(PART1).pdf - Sanskrit 
+○ - UNADIKOSHAHA(PART2).pdf - Sanskrit 
+○ - UNADIKOSHAHA(PART3).pdf - Sanskrit 
+2. SAMSKRUTA BASHA SOWRABHAM 
+○ - Samskruta Basha Saurabham (Vyakaranam) Part A.pdf - 
+Telugu and Sanskrit 
+○ - Samskruta Basha Saurabham (Vyakaranam) Part B.pdf - 
+Telugu and Sanskrit 
+○ - Samskruta Basha Saurabham (Vyakaranam) Part C.pdf - 
+Telugu and Sanskrit 
+○ - Samskruta Basha Saurabham (Vyakaranam) Part D.pdf - 
+Telugu and Sanskrit 
+3. SAMSKRUTAM BINDER 
+○ samskrutam binder.pdf - Sanskrit 
+4. VAKYA NIRMANAM and miscellaneous 
+○ Gruha Nirmanam - Telugu 
+○ Panchangam - Telugu 
+○ ANCIENT METHODS OF EXPRESSING NUMBERS IN 
+LETTERS.pdf - Telugu 
+○ - Guni Bhootha Vyagynam.pdf - Telugu 
+○ - Ith Sanjynu.pdf - Telugu 
+○ - Kavyeshu Rasaha.pdf - Telugu 
+○ - Kruthya Prathyayaas.pdf - Telugu 
+○ - Panchakarahitam.pdf - Telugu 
+○ - Samskruta Padaani.pdf - Sanskrit 
+○ - Samskruta Shabda Nirmanam.pdf - Sanskrit 
+○ - Thadhitha Prathyayas.pdf - Telugu 
+○ - VAIDIKA SAMAYA GANANA.pdf - Sanskrit 
+○ - Vakya Nirmanam.pdf - Telugu 
+○ - sabdhaha.pdf - Sanskrit 
+○ - shabdamanjari.pdf - Telugu 
+○ - shabdha vishleshana.pdf - Sanskrit 
+○ - vadatu samskrutam.pdf - Telugu 
+5. SANATANA DHARMAM (book) 
+○ - sanathana-dharmam.pdf - English and Sanskrit 
+6. KRUT BINDER 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-A1.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-A2.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-A3.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-A4.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-B1.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-B2.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-B3.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-B4.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-C1.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-C2.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-C3.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-C4.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-D1.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-D2.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-D3.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-D4.pdf - Sanskrit 
+○ - Sanskrit-Vyakaranam-Krudanta-Prakaranam-D5.pdf - Sanskrit 
+7. UNADI BINDER 
+○ - unadi binder.pdf - Sanskrit 
+8. KRUTYA PRATYAYAS 
+○ - Krutya Pratyayas.pdf - Telugu 
+9. KRIYA SIDDHI 
+○ - Kriya Siddhi Sutrani.pdf - Sanskrit 
+○ - kriya binder.pdf - Sanskrit 
+○ - siddhi prakriya.pdf - Sanskrit 
+10. SABDA SIDDHI 
+○ - Saralatamavidhi 2a.pdf - Sanskrit 
+○ - Saralatamavidhi 2b.pdf - Sanskrit 
+○ - sabdasiddhi-part1.pdf - Sanskrit 
+○ - sabdasiddhi-part2.pdf - Sanskrit 
+○ - sabdasiddhi-part3.pdf - Sanskrit 
+11. UPADESA SAARAHA 
+○ - upadesasaraha.pdf - Sanskrit 
+12. ALANKAARAS 
+○ - Alankaras.pdf - Sanskrit 
+13. SATRU AND SANACH PRATYAYAS 
+○ - satru and sanach.pdf  - Sanskrit 
+14. LATE LAKAARAH 
+○ - LATE LAKAARAH.pdf - Sanskrit 
+15. LRUT LAKAARAH 
+○ - lrut lakaraha.pdf - Sanskrit 
+16. AVYAYAANI 
+○ - avyayaani-examples.pdf - Sanskrit 
+○ - avyayani.pdf - Sanskrit 
+17. CHENDASI 
+○ - Chendasi.pdf - Hindi 
+18. PHALITHA JYOTISHYAM 
+○ FUNDAMENTALS OF JYOTHISHYAM - Telugu 
+○ MUHURTHA CHINTAMANI - Telugu 
+○ SELECTION OF GOOD TIME - English 
+○ - Divisional Charts 1-5.pdf - English 
+○ - Important Items To Know In Predicting Horoscope.pdf - 
+Sanskrit 
+○ - Jyothisyam.pdf(part 1 to 8) - Telugu 
+○ Introduction to Jyothishyam - English 
+○ - Karma Siddhantam.pdf  - Telugu 
+○ - Longitivity.pdf  - Telugu 
+○ - Pothana Bhagavatham.pdf  - Telugu 
+○ - Use of Divisional Charts.pdf  - English 
+19. VEDANGA CHANDAHA 
+○ Chandaha-part1.pdf - Sanskrit 
+○ Chandaha-part2.pdf - Sanskrit 
+20. SIKSHA SASTRAM 
+○ - siksha  sastram-part1.pdf - Sanskrit 
+○ - siksha sastram-part2.pdf - Sanskrit 
+○ - siksha sastram-part3.pdf - Sanskrit 
+○ - swaraaha.pdf - Sanskrit 
+21. VEDANGA JYOTISHYAM 
+○ - Vedanga Jyotishyam.pdf - Sanskrit 
+22. NIRUKTAM 
+○ - niruktam-part1.pdf - Sanskrit 
+○ - niruktam-part2.pdf - Sanskrit 
+○ - niruktam-part3.pdf - Sanskrit 
+23. VEDANGA KALPAHA 
+○ - 1. Vedanta-kalpaha-part1.pdf - Sanskrit 
+○ - 2. Gruhyasutras.pdf - Telugu 
+○ - 3. Dharmasutras.pdf - Telugu 
+24. TELUGU TO DEVANAGARI LIPI 
+○ - Telugu to Devanagari.pdf - Telugu and Sanskrit
+
 </h3>
 
 
