@@ -19,7 +19,7 @@
 
 <h3 align="center">
 
-<img src="sarma-photos.png" width=25% height=25%>
+<img src="sarma-photos.PNG" width=25% height=25%>
 
 Smt & Sri Y. S. Sarma
 
