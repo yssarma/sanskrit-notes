@@ -163,6 +163,9 @@ SUBHAMASTU
 
 <img src="rose-photo.jpeg" width=30% height=30%>
 
+
+
+
 SUBJECTS AVAILABLE IN THE STUDY MATERIAL OF 
 17-11-2024 WITH DETAILS OF FILES AVAILABLE IN EACH 
 SUBJECT. https://github.com/yssarma/sanskrit-notes 
