@@ -294,7 +294,12 @@ Sanskrit
 
 
 Dear Reader,
-                    How to read the study material sent by WHATSAAP
+<h2 align="center">
+
+ How to read the study material sent by WHATSAPP
+
+</h2>
+                   
 
 Kindly follow the steps:
 1) To read the study material only internet is required and no app like Youtube is required.
@@ -311,6 +316,7 @@ Kindly follow the steps:
 12) In item 18 open the subject, there is a letter about introduction to Jyothishyam. It is interesting please go through it.
 
 With Regards,
+
 Y.S Sarma
 
 
