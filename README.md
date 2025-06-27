@@ -293,3 +293,24 @@ Sanskrit
 </h3>
 
 
+Dear Reader,
+                    How to read the study material sent by WHATSAAP
+
+Kindly follow the steps:
+1) To read the study material only internet is required and no app like Youtube is required.
+2) You can save the letter anywhere and it is always available and you can read it anytime you want.
+3) Please click the link of the main letter of WhatsApp sent. In that you can see the main letter.
+4) The main letter will appear. Read the main letter. A table is there in the end of the main letter and there are a total of 24 subjects.
+5) At each of the subject on the right side there is a link. Please click the link of the desired subject
+6) The subject content is opened and you can see the files
+7) Click the desired file. It will open and you can read. After reading you can close the file and open another file or subject you desire 
+8) Some of the files are big and as u click "DOWNLOAD" will appear. Click the download, the respective file will be downloaded.
+9) Once the file is downloaded it is not required to download again
+10) Please open this on a laptop to read comfortably.
+11) For Telugu speakers who are beginners to learn Sanskrit language Item 2 is designed. It consists of 60 lessons, first 30 lessons are explained in Telugu. Balance 30 lessons in Devanagari. With the view by completion of 30 lessons you will have basic knowledge of Sanskrit and you are supposed to learn Devanagari by that time. This is the idea, it is self explanatory and without a teacher you can learn it yourself.
+12) In item 18 open the subject, there is a letter about introduction to Jyothishyam. It is interesting please go through it.
+
+With Regards,
+Y.S Sarma
+
+
